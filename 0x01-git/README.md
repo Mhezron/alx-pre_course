@@ -1,1 +1,1 @@
-readme inside of 0x01-git
+New 0x01-git readme, minor fixes
